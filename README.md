@@ -1,0 +1,1 @@
+This projects runs a simulated call center application using cmd module for user and the queue for manage the upcoming calls.
